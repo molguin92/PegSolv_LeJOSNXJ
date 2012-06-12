@@ -1,6 +1,8 @@
 Peg Solitaire Solver; software for solving a Peg Solitaire board
 through a Lego Mindstorms robot.
-Copyright (C) 2012  Manuel Olguin <manuel.olguin@ug.uchile.cl>, and David Dirkse <http://www.davdata.nl/math/peg-solitaire.html>, who provided the original algorithm on his website <http://www.davdata.nl/math/peg-solitaire.html>.
+Copyright (C) 2012  Manuel Olguin <manuel.olguin@ug.uchile.cl>, and
+David Dirkse <david@davdata.nl>, who provided the original algorithm
+on his website <http://www.davdata.nl/math/peg-solitaire.html>.
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
